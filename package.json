@@ -1,0 +1,15 @@
+{
+    "name": "Profile Pic Fetch",
+    "version": "1.0.0",
+    "description": "yeah basically",
+    "main": "index.js",
+    "scripts": {
+        "test": " "
+    },
+    "author": "Nate B",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^11.3.2",
+        "number-to-words": "^1.2.3"
+    }
+}
